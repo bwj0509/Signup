@@ -8,7 +8,6 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
-import { fontWeight } from '@mui/system';
 
 
 function Signup() {
