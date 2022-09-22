@@ -3,7 +3,10 @@ import Signup from './Componets/Signup';
 
 function App() {
   return (
-    <Signup />
+    <>
+      <Signup />
+    </>
+    
   );
 }
 
